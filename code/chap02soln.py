@@ -14,6 +14,8 @@ import first
 import thinkstats2
 
 
+
+
 def Mode(hist):
     """Returns the value with the highest frequency.
 
@@ -94,4 +96,6 @@ def main(script):
 
 
 if __name__ == '__main__':
-    main(*sys.argv)
+    main(*sys.argv
+
+
